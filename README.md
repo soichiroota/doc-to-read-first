@@ -41,8 +41,8 @@ WIPのPull Requestを作成したら、そのブランチに対して普通に�
 
 ```
 <type>: <summary>
-  │            │
-  │            └─⫸ Summary in present tense. Not capitalized. No period at the end.
+  │        │
+  │        └─⫸ Summary in present tense. Not capitalized. No period at the end.
   │       
   │
   └─⫸ Commit Type: build|ci|docs|feat|fix|perf|refactor|test
