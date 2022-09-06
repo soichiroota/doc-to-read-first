@@ -25,7 +25,7 @@
 
 #### 1. WIP(work in progress) Pull Requestの作成
 
-まず、ブランチは原則Issueと一対一対応とし、ブランチ名は`issue-#X`としてください（`X`は対応するIssue番号で読み替えます）。
+まず、ブランチは原則Issueと一対一対応とし、ブランチ名は`issue-#X`とします（`X`は対応するIssue番号で読み替えてください）。
 
 ブランチを切ってコミットを始めたら、まずWIPのPull Requestを作成します。 WIPのPull Requestはまだレビューの必要のない作業中のPull Requestで、現在の作業の進捗状況をdiffベースで共有するために作成します。
 
